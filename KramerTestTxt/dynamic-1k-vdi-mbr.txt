@@ -1,0 +1,158 @@
+================================================================================
+           Name: <<< Oracle VM VirtualBox Disk Image >>>
+
+      Signature: beda107f
+        Version: 1.1
+    Header size: 400
+     Image type: 1
+    Image flags: 00000000
+    Description: 
+     Map offset: 00100000
+    Data offset: 00200000
+      Cylinders: 0
+          Heads: 0
+        Sectors: 0
+    Sector size: 512
+      Disk size: 134217728
+      Page size: 1048576
+     Extra data: 0
+    Total pages: 128
+Allocated pages: 24
+================================================================================
+
+         0	         0	00000000
+         1	         1	00000001
+         2	        18	00000012
+         3	        19	00000013
+         4	        -1	ffffffff
+         5	         2	00000002
+         6	        -1	ffffffff
+         7	        -1	ffffffff
+         8	        -1	ffffffff
+         9	         3	00000003
+        10	        -1	ffffffff
+        11	        20	00000014
+        12	        21	00000015
+        13	        22	00000016
+        14	        23	00000017
+        15	        -1	ffffffff
+        16	        -1	ffffffff
+        17	         9	00000009
+        18	        -1	ffffffff
+        19	        -1	ffffffff
+        20	        -1	ffffffff
+        21	        -1	ffffffff
+        22	        -1	ffffffff
+        23	        -1	ffffffff
+        24	        -1	ffffffff
+        25	         4	00000004
+        26	        -1	ffffffff
+        27	        -1	ffffffff
+        28	        -1	ffffffff
+        29	        -1	ffffffff
+        30	        -1	ffffffff
+        31	        -1	ffffffff
+        32	        -1	ffffffff
+        33	        10	0000000a
+        34	        -1	ffffffff
+        35	        -1	ffffffff
+        36	        -1	ffffffff
+        37	        -1	ffffffff
+        38	        -1	ffffffff
+        39	        -1	ffffffff
+        40	        -1	ffffffff
+        41	         5	00000005
+        42	        -1	ffffffff
+        43	        -1	ffffffff
+        44	        -1	ffffffff
+        45	        -1	ffffffff
+        46	        -1	ffffffff
+        47	        -1	ffffffff
+        48	        -1	ffffffff
+        49	         6	00000006
+        50	        -1	ffffffff
+        51	        -1	ffffffff
+        52	        -1	ffffffff
+        53	        -1	ffffffff
+        54	        -1	ffffffff
+        55	        -1	ffffffff
+        56	        -1	ffffffff
+        57	         7	00000007
+        58	        -1	ffffffff
+        59	        -1	ffffffff
+        60	        -1	ffffffff
+        61	        -1	ffffffff
+        62	        -1	ffffffff
+        63	        -1	ffffffff
+        64	        -1	ffffffff
+        65	        11	0000000b
+        66	        -1	ffffffff
+        67	        -1	ffffffff
+        68	        -1	ffffffff
+        69	        -1	ffffffff
+        70	        -1	ffffffff
+        71	        -1	ffffffff
+        72	        -1	ffffffff
+        73	         8	00000008
+        74	        -1	ffffffff
+        75	        -1	ffffffff
+        76	        -1	ffffffff
+        77	        -1	ffffffff
+        78	        -1	ffffffff
+        79	        -1	ffffffff
+        80	        -1	ffffffff
+        81	        12	0000000c
+        82	        -1	ffffffff
+        83	        -1	ffffffff
+        84	        -1	ffffffff
+        85	        -1	ffffffff
+        86	        -1	ffffffff
+        87	        -1	ffffffff
+        88	        -1	ffffffff
+        89	        13	0000000d
+        90	        -1	ffffffff
+        91	        -1	ffffffff
+        92	        -1	ffffffff
+        93	        -1	ffffffff
+        94	        -1	ffffffff
+        95	        -1	ffffffff
+        96	        -1	ffffffff
+        97	        14	0000000e
+        98	        -1	ffffffff
+        99	        -1	ffffffff
+       100	        -1	ffffffff
+       101	        -1	ffffffff
+       102	        -1	ffffffff
+       103	        -1	ffffffff
+       104	        -1	ffffffff
+       105	        15	0000000f
+       106	        -1	ffffffff
+       107	        -1	ffffffff
+       108	        -1	ffffffff
+       109	        -1	ffffffff
+       110	        -1	ffffffff
+       111	        -1	ffffffff
+       112	        -1	ffffffff
+       113	        16	00000010
+       114	        -1	ffffffff
+       115	        -1	ffffffff
+       116	        -1	ffffffff
+       117	        -1	ffffffff
+       118	        -1	ffffffff
+       119	        -1	ffffffff
+       120	        -1	ffffffff
+       121	        17	00000011
+       122	        -1	ffffffff
+       123	        -1	ffffffff
+       124	        -1	ffffffff
+       125	        -1	ffffffff
+       126	        -1	ffffffff
+       127	        -1	ffffffff
+
+============================================================
+Partition 0: type=0x83   start=      2048   count=    260096
+Partition 1: type=0x00   start=         0   count=         0
+Partition 2: type=0x00   start=         0   count=         0
+Partition 3: type=0x00   start=         0   count=         0
+Magic: aa55
+

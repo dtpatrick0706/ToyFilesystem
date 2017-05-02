@@ -1,0 +1,69 @@
+            Blocks       Inodes
+   Total:      32512        32512
+    Free:       5618        32175
+Reserved:       1625
+
+First data block:          0
+      Block size:       4096
+    Block groups:          1
+Blocks per group:      32768
+Inodes per group:      32512
+      GDT blocks:          8
+Inodes per block:         32
+ Addrs per block:       1024
+
+Group    Block map    Inode map    Inode tbl   bFree   iFree
+    0            9           10           11    5618   32175
+
+ Inode: 2
+  Mode:  40755 drwxr-xr-x
+   UID: 1000
+   GID: 1000
+  Size: 4096
+Blocks: 8
+
+ Links: 4
+Direct blocks:
+ 0:       1027
+ 1:          0
+ 2:          0
+ 3:          0
+ 4:          0
+ 5:          0
+ 6:          0
+ 7:          0
+ 8:          0
+ 9:          0
+10:          0
+11:          0
+
+Single indirect block:          0
+Double indirect block:          0
+Triple indirect block:          0
+
+ Inode: 12
+  Mode: 100664 -rw-rw-r--
+   UID: 1000
+   GID: 1000
+  Size: 95415684
+Blocks: 186552
+
+ Links: 1
+Direct blocks:
+ 0:       1536
+ 1:       1537
+ 2:       1538
+ 3:       1539
+ 4:       1540
+ 5:       1541
+ 6:       1542
+ 7:       1543
+ 8:       1544
+ 9:       1545
+10:       1546
+11:       1547
+
+Single indirect block:       1033
+Double indirect block:       1034
+Triple indirect block:          0
+

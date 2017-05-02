@@ -1,0 +1,84 @@
+            Blocks       Inodes
+   Total:     130048        32512
+    Free:     120379        32500
+Reserved:       6502
+
+First data block:          1
+      Block size:       1024
+    Block groups:         16
+Blocks per group:       8192
+Inodes per group:       2032
+      GDT blocks:        257
+Inodes per block:          8
+ Addrs per block:        256
+
+Group    Block map    Inode map    Inode tbl   bFree   iFree
+    0          259          260          261    6623    2020
+    1         8451         8452         8453    4709    2032
+    2        16385        16386        16387    7936    2032
+    3        24835        24836        24837    7678    2032
+    4        32769        32770        32771    7936    2032
+    5        41219        41220        41221    7678    2032
+    6        49153        49154        49155    7936    2032
+    7        57603        57604        57605    7678    2032
+    8        65537        65538        65539    7936    2032
+    9        73987        73988        73989    7678    2032
+   10        81921        81922        81923    7936    2032
+   11        90113        90114        90115    7936    2032
+   12        98305        98306        98307    7936    2032
+   13       106497       106498       106499    7936    2032
+   14       114689       114690       114691    7936    2032
+   15       122881       122882       122883    6911    2032
+
+ Inode: 2
+  Mode:  40755 drwxr-xr-x
+   UID: 1000
+   GID: 1000
+  Size: 1024
+Blocks: 2
+
+ Links: 3
+Direct blocks:
+ 0:        515
+ 1:          0
+ 2:          0
+ 3:          0
+ 4:          0
+ 5:          0
+ 6:          0
+ 7:          0
+ 8:          0
+ 9:          0
+10:          0
+11:          0
+
+Single indirect block:          0
+Double indirect block:          0
+Triple indirect block:          0
+
+ Inode: 12
+  Mode: 100755 -rwxr-xr-x
+   UID: 1000
+   GID: 1000
+  Size: 4088088
+Blocks: 8020
+
+ Links: 1
+Direct blocks:
+ 0:       1025
+ 1:       1026
+ 2:       1027
+ 3:       1028
+ 4:       1029
+ 5:       1030
+ 6:       1031
+ 7:       1032
+ 8:       1033
+ 9:       1034
+10:       1035
+11:       1036
+
+Single indirect block:        529
+Double indirect block:        530
+Triple indirect block:          0
+
